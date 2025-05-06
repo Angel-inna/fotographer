@@ -1,0 +1,4 @@
+theme: "hugo-theme-quint"
+baseURL: https://fotographer.app/
+languageCode: en-us
+title: Человек с камерой
